@@ -14,7 +14,7 @@ Production ready ASP.NET Core BFF with a React frontend.
      - Make sure you add `dotnet-ef` tool to your PATH.
        - `export PATH="$PATH:$HOME/.dotnet/tools"`
      
-         <img width="550" alt="image" src="screenshots/dotnet-ef-install.png">
+         <img width="650" alt="image" src="screenshots/dotnet-ef-install.png">
        - More info on adding to PATH: https://stackoverflow.com/a/77428269/8644294
      - Make sure `DOTNET_ROOT` environment variable is set for `dotnet-ef` tool to work.
        - Check using `echo $DOTNET_ROOT`.
