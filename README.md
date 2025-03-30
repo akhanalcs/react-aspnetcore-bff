@@ -152,6 +152,10 @@ Subscription: Azure subscription 1 (8824a1
       # Set DOTNET_ROOT environment variable
       export DOTNET_ROOT="$HOME/.dotnet"
       ```
+    - Check
+      ```bash
+      cat .bash_profile
+      ```
   - Check if `dotnet-ef` is properly installed using `dotnet ef --version` or `dotnet-ef --version`.
 
 #### Learn .NET Aspire (it's simple and powerful)
